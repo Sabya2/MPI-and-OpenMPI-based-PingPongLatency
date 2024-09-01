@@ -1,7 +1,7 @@
 Needed module for this directory are 
 
 # to get the tree of any directory
-$ find . -type d | sed -e "s/[^-][^\/]*\//  |/g" -e "s/|\([^ ]\)/| - \1/"
+
 
 module load impi/2021.6 intel/2022.2 slurm
 Compile the pingPong.c for both MPI and openMP using the intel compiler
