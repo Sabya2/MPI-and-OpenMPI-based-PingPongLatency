@@ -1,0 +1,27 @@
+Module for GCC (version 9.3.0) loaded.
+Module for Open MPI (version 4.1.4) loaded.
+[gfn2006:354687] *** An error occurred in MPI_Recv
+[gfn2006:354687] *** reported by process [3524657153,1]
+[gfn2006:354687] *** on communicator MPI_COMM_WORLD
+[gfn2006:354687] *** MPI_ERR_COUNT: invalid count argument
+[gfn2006:354687] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2006:354687] ***    and potentially your MPI job)
+[gfn2006:353722] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2006:353722] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gfn2006:370373] *** An error occurred in MPI_Send
+[gfn2006:370373] *** reported by process [292290561,0]
+[gfn2006:370373] *** on communicator MPI_COMM_WORLD
+[gfn2006:370373] *** MPI_ERR_COUNT: invalid count argument
+[gfn2006:370373] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2006:370373] ***    and potentially your MPI job)
+[gfn2006:370368] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2006:370368] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gfn2006:407835] *** An error occurred in MPI_Send
+[gfn2006:407835] *** reported by process [2394423297,0]
+[gfn2006:407835] *** on communicator MPI_COMM_WORLD
+[gfn2006:407835] *** MPI_ERR_COUNT: invalid count argument
+[gfn2006:407835] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2006:407835] ***    and potentially your MPI job)
+[gfn2006:407831] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2006:407831] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+slurmstepd: error: *** JOB 5696614 ON gfn2006 CANCELLED AT 2024-05-08T14:26:26 DUE TO TIME LIMIT ***

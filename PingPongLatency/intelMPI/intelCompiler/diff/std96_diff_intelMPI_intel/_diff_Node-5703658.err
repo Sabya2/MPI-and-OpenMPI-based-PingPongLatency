@@ -1,0 +1,14 @@
+Module for Intel oneAPI Toolkits (version 2022 Update 2) loaded.
+Module for Intel-MPI (version 2022.2) loaded.
+Abort(336188162) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Send: Invalid count, error stack:
+PMPI_Send(157): MPI_Send(buf=0x7ffdef01a010, count=-2147483648, MPI_BYTE, dest=1, tag=3, MPI_COMM_WORLD) failed
+PMPI_Send(93).: Negative count, value is -2147483648
+Abort(738836994) on node 1 (rank 1 in comm 0): Fatal error in PMPI_Recv: Invalid count, error stack:
+PMPI_Recv(171): MPI_Recv(buf=0x7ffdef01a010, count=-2147483648, MPI_BYTE, src=0, tag=3, MPI_COMM_WORLD, status=0x7fffffff8560) failed
+PMPI_Recv(101): Negative count, value is -2147483648
+Abort(470405890) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Send: Invalid count, error stack:
+PMPI_Send(157): MPI_Send(buf=0x7ffed5eae010, count=-1937019605, MPI_BYTE, dest=1, tag=3, MPI_COMM_WORLD) failed
+PMPI_Send(93).: Negative count, value is -1937019605
+Abort(873054722) on node 1 (rank 1 in comm 0): Fatal error in PMPI_Recv: Invalid count, error stack:
+PMPI_Recv(171): MPI_Recv(buf=0x7ffed5eae010, count=-1937019605, MPI_BYTE, src=0, tag=3, MPI_COMM_WORLD, status=0x7fffffff8560) failed
+PMPI_Recv(101): Negative count, value is -1937019605

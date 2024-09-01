@@ -1,0 +1,1269 @@
+================================================================================
+JobID = 5654673
+User = gzextschak, Account = gzextschak
+Partition = standard96, Nodelist = gfn2013
+================================================================================
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:2^ power:33
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 33
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:2^ power:33
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 33
+
+
+
+------------ outterLoop-1, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-1, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-2, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-2, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-3, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-3, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-4, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-4, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-5, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-5, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-6, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-6, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-7, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-7, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-8, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-8, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-9, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-9, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-10, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-10, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-11, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-11, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-12, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-12, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-13, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-13, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-14, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-14, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-15, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-15, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-16, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-16, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-17, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-17, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-18, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-18, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-19, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-19, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-20, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-20, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-21, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-21, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-22, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-22, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-23, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-23, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-24, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-24, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-25, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-25, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-26, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-26, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-27, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-27, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-28, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-28, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-29, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-29, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-30, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-30, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-31, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-31, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-32, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-32, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:3^ power:20
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 20
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:3^ power:20
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 20
+
+
+
+------------ outterLoop-1, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-1, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-2, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-2, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-3, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-3, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-4, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-4, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-5, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-5, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-6, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-6, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-7, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-7, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-8, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-8, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-9, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-9, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-10, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-10, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-11, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-11, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-12, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-12, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-13, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-13, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-14, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-14, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-15, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-15, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-16, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-16, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-17, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-17, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-18, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+
+
+
+------------ outterLoop-18, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-19, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-19, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+csv created, with procId: 0
+--------------- performed B2A - procID: 0 ----------------
+----------------------------------------------
+csv created, with procId: 1
+--------------- performed B2A - procID: 1 ----------------
+----------------------------------------------
+
+
+
+------------ outterLoop-20, procID: 0 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 0
+
+
+
+------------ outterLoop-20, procID: 1 ---------------------------
+-- A2B_InnerTransferLoop cases: 0, - procID: 1
+csv created, with procId: 1
+--------------- performed A2B - procID: 1 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 1
+csv created, with procId: 0
+--------------- performed A2B - procID: 0 ----------------
+----------------------------------------------
+-- B2A_InnerTransferLoop cases: 1, - procId: 0
+============ Job Information ===================================================
+Submitted: 2024-04-12T12:55:07
+Started: 2024-04-12T12:55:24
+Ended: 2024-04-12T16:15:36
+Elapsed: 201 min, Limit: 200 min, Difference: -1 min
+CPUs: 192, Nodes: 1
+Estimated NPL: 46.6975
+================================================================================

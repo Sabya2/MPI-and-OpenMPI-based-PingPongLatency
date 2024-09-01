@@ -1,0 +1,7 @@
+Module for GCC (version 9.3.0) loaded.
+Module for Intel-MPI (version 2022.2) loaded.
+Abort(639490) on node 1 (rank 1 in comm 0): Fatal error in PMPI_Recv: Invalid count, error stack:
+PMPI_Recv(171): MPI_Recv(buf=0x7fef464db010, count=-2147483648, MPI_INT, src=0, tag=0, MPI_COMM_WORLD, status=0x7fffffffaef0) failed
+PMPI_Recv(101): Negative count, value is -2147483648
+slurmstepd: error: *** STEP 5654673.1 ON gfn2013 CANCELLED AT 2024-04-12T16:15:36 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 5654673 ON gfn2013 CANCELLED AT 2024-04-12T16:15:36 DUE TO TIME LIMIT ***

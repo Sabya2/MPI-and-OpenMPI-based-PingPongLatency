@@ -1,0 +1,1649 @@
+================================================================================
+JobID = 5696607
+User = gzextschak, Account = gzextschak
+Partition = standard96, Nodelist = gfn2009
+================================================================================
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:2^ power:33
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 33
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:2^ power:33
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 33
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 13 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 13 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 14 ==========================
+ - case of asymmetrictity 
+
+ ======================== outterLoop - 14 ==========================
+ - case of asymmetrictity 
+
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 15 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 15 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 16 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 16 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 17 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 17 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 18 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 18 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 19 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 19 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 20 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 20 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 21 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 21 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 22 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 22 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 23 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 23 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 24 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 24 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 25 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 25 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 26 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 26 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 27 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 27 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 28 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 28 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 29 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 29 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 30 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 30 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 31 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 31 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 32 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 32 ==========================
+ - case of asymmetrictity 
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:3^ power:20
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 20
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:3^ power:20
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 20
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 13 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 13 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 14 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 14 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 15 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 15 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 16 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 16 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 17 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 17 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 18 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 18 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 19 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 19 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 20 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 20 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:5^ power:15
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 15
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:5^ power:15
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 15
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 3 ==========================
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 13 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 13 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 14 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 14 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 15 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 15 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:7^ power:12
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 12
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:7^ power:12
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 12
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 3 ==========================
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 11 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 12 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:11^ power:10
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 10
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:11^ power:10
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 10
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 10 ==========================
+ - case of asymmetrictity 
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:13^ power:9
+procId: 1 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 9
+parse_arguments function
+ -- checking Flags for data Transfer pattern
+ -- creating the (base,power) pairs
+ ----- Data Packet for base:13^ power:9
+procId: 0 ----> Sequentially Executed Functions
+ ------ generateNumberArray -> combineArrays -> selectionSort
+ ------ The combined length of sorted array: 9
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 1 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 2 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 3 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+ ======================== outterLoop - 4 ==========================
+ - case of asymmetrictity 
+
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 5 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 6 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 7 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 8 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+
+
+ ======================== outterLoop - 9 ==========================
+ - case of asymmetrictity 
+ ---- csv created - transferCase: A2B, procID: 0, 
+ ------ Completed - transfercase: A2B, procID: 0 ------ 
+ ---- csv created - transferCase: A2B, procID: 1, 
+ ------ Completed - transfercase: A2B, procID: 1 ------ 
+ ---- csv created - transferCase: B2A, procID: 0, 
+ ------ Completed - transfercase: B2A, procID: 0 ------ 
+ ---- csv created - transferCase: B2A, procID: 1, 
+ ------ Completed - transfercase: B2A, procID: 1 ------ 
+============ Job Information ===================================================
+Submitted: 2024-05-08T10:56:47
+Started: 2024-05-08T10:56:48
+Ended: 2024-05-08T13:31:03
+Elapsed: 155 min, Limit: 200 min, Difference: 45 min
+CPUs: 192, Nodes: 1
+Estimated NPL: 35.9829
+================================================================================

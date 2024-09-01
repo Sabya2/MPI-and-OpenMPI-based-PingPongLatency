@@ -1,0 +1,26 @@
+Module for Intel oneAPI Toolkits (version 2022 Update 2) loaded.
+Module for Open MPI with Intel compiler support (version 4.1.4) loaded.
+[gcn1313:29082] *** An error occurred in MPI_Recv
+[gcn1313:29082] *** reported by process [140735689261057,1]
+[gcn1313:29082] *** on communicator MPI_COMM_WORLD
+[gcn1313:29082] *** MPI_ERR_COUNT: invalid count argument
+[gcn1313:29082] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gcn1313:29082] ***    and potentially your MPI job)
+[gcn1313:29075] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gcn1313:29075] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gcn1313:34658] *** An error occurred in MPI_Recv
+[gcn1313:34658] *** reported by process [140734838276097,1]
+[gcn1313:34658] *** on communicator MPI_COMM_WORLD
+[gcn1313:34658] *** MPI_ERR_COUNT: invalid count argument
+[gcn1313:34658] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gcn1313:34658] ***    and potentially your MPI job)
+[gcn1313:34652] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gcn1313:34652] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gcn1313:54135] *** An error occurred in MPI_Recv
+[gcn1313:54135] *** reported by process [140734101848065,1]
+[gcn1313:54135] *** on communicator MPI_COMM_WORLD
+[gcn1313:54135] *** MPI_ERR_COUNT: invalid count argument
+[gcn1313:54135] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gcn1313:54135] ***    and potentially your MPI job)
+[gcn1313:54129] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gcn1313:54129] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

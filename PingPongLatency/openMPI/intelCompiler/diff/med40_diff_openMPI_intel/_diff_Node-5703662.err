@@ -1,0 +1,28 @@
+ERROR: Invalid command 'intel/2022.2'
+Try 'module --help' for more information.
+Module for Open MPI with Intel compiler support (version 4.1.4) loaded.
+To use the compiler wrappers, an "intel" compiler module must be loaded, too.
+[gcn1169:107786] *** An error occurred in MPI_Send
+[gcn1169:107786] *** reported by process [3529375745,0]
+[gcn1169:107786] *** on communicator MPI_COMM_WORLD
+[gcn1169:107786] *** MPI_ERR_COUNT: invalid count argument
+[gcn1169:107786] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gcn1169:107786] ***    and potentially your MPI job)
+[gcn1169:107765] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gcn1169:107765] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gcn1169:112418] *** An error occurred in MPI_Send
+[gcn1169:112418] *** reported by process [3249471489,0]
+[gcn1169:112418] *** on communicator MPI_COMM_WORLD
+[gcn1169:112418] *** MPI_ERR_COUNT: invalid count argument
+[gcn1169:112418] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gcn1169:112418] ***    and potentially your MPI job)
+[gcn1169:112388] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gcn1169:112388] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gcn1169:128651] *** An error occurred in MPI_Send
+[gcn1169:128651] *** reported by process [2163605505,0]
+[gcn1169:128651] *** on communicator MPI_COMM_WORLD
+[gcn1169:128651] *** MPI_ERR_COUNT: invalid count argument
+[gcn1169:128651] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gcn1169:128651] ***    and potentially your MPI job)
+[gcn1169:128605] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gcn1169:128605] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

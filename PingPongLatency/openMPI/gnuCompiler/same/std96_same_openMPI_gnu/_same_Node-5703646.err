@@ -1,0 +1,26 @@
+Module for GCC (version 9.3.0) loaded.
+Module for Open MPI (version 4.1.4) loaded.
+[gfn2009:342424] *** An error occurred in MPI_Send
+[gfn2009:342424] *** reported by process [2521497601,0]
+[gfn2009:342424] *** on communicator MPI_COMM_WORLD
+[gfn2009:342424] *** MPI_ERR_COUNT: invalid count argument
+[gfn2009:342424] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2009:342424] ***    and potentially your MPI job)
+[gfn2009:342419] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2009:342419] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gfn2009:347737] *** An error occurred in MPI_Recv
+[gfn2009:347737] *** reported by process [3783983105,1]
+[gfn2009:347737] *** on communicator MPI_COMM_WORLD
+[gfn2009:347737] *** MPI_ERR_COUNT: invalid count argument
+[gfn2009:347737] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2009:347737] ***    and potentially your MPI job)
+[gfn2009:347731] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2009:347731] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gfn2009:367685] *** An error occurred in MPI_Recv
+[gfn2009:367685] *** reported by process [865599489,1]
+[gfn2009:367685] *** on communicator MPI_COMM_WORLD
+[gfn2009:367685] *** MPI_ERR_COUNT: invalid count argument
+[gfn2009:367685] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2009:367685] ***    and potentially your MPI job)
+[gfn2009:367680] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2009:367680] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

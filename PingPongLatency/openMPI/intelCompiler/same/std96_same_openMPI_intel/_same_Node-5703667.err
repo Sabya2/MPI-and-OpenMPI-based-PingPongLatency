@@ -1,0 +1,59 @@
+Module for Intel oneAPI Toolkits (version 2022 Update 2) loaded.
+Module for Open MPI with Intel compiler support (version 4.1.4) loaded.
+[gfn2010:09413] *** An error occurred in MPI_Recv
+[gfn2010:09413] *** reported by process [140736893550593,1]
+[gfn2010:09413] *** on communicator MPI_COMM_WORLD
+[gfn2010:09413] *** MPI_ERR_COUNT: invalid count argument
+[gfn2010:09413] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2010:09413] ***    and potentially your MPI job)
+[gfn2010:09406] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2010:09406] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gfn2010:14670] *** An error occurred in MPI_Recv
+[gfn2010:14670] *** reported by process [140736439451649,1]
+[gfn2010:14670] *** on communicator MPI_COMM_WORLD
+[gfn2010:14670] *** MPI_ERR_COUNT: invalid count argument
+[gfn2010:14670] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2010:14670] ***    and potentially your MPI job)
+[gfn2010:14665] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2010:14665] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+mpirun has exited due to process rank 0 with PID 26641 on
+node gfn2010 exiting improperly. There are three reasons this could occur:
+
+1. this process did not call "init" before exiting, but others in
+the job did. This can cause a job to hang indefinitely while it waits
+for all processes to call "init". By rule, if one process calls "init",
+then ALL processes must call "init" prior to termination.
+
+2. this process called "init", but exited without calling "finalize".
+By rule, all processes that call "init" MUST call "finalize" prior to
+exiting or it will be considered an "abnormal termination"
+
+3. this process called "MPI_Abort" or "orte_abort" and the mca parameter
+orte_create_session_dirs is set to false. In this case, the run-time cannot
+detect that the abort call was an abnormal termination. Hence, the only
+error message you will receive is this one.
+
+This may have caused other processes in the application to be
+terminated by signals sent by mpirun (as reported here).
+
+You can avoid this message by specifying -quiet on the mpirun command line.
+--------------------------------------------------------------------------
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 237
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 237
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 237
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 237
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 246
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 1792
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 237
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 237
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 246
+[gfn2010:26636] PMIX ERROR: NO-PERMISSIONS in file ../../../../../../../../../../opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 1792
+[gfn2010:34071] *** An error occurred in MPI_Recv
+[gfn2010:34071] *** reported by process [140735242436609,1]
+[gfn2010:34071] *** on communicator MPI_COMM_WORLD
+[gfn2010:34071] *** MPI_ERR_COUNT: invalid count argument
+[gfn2010:34071] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[gfn2010:34071] ***    and potentially your MPI job)
+[gfn2010:33296] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[gfn2010:33296] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
